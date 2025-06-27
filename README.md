@@ -1,2 +1,1 @@
-# videobokepartis
-videobokepartis
+# [videobokepartis](https://videobokepartis.pages.dev)
